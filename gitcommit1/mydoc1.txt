@@ -1,0 +1,6 @@
+git clone
+git checkout main
+git pull
+create a branch in git repository 
+git pull
+git checkout branch name
